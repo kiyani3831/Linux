@@ -1,0 +1,5 @@
+when we write without quotes the word replace var but the problem is that bash splits words based on space.
+for example after replacing the value of var we have : hello mom="test"
+here the word hello mom is supposed to be a single operand and test should be the second operand and = as our operator.
+however bacause we don't have quotes bash treat hello and mom as separate words
+that means only hello becomes the first operand and mom is considered unknown which will cause an error.
