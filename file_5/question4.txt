@@ -1,0 +1,2 @@
+cat file.txt | grep "word" creates two processes (cat and grep)
+grep "word" file.txt uses only one process and is more efficient

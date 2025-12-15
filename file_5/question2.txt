@@ -1,0 +1,3 @@
+SIGTSTP is a soft signal sent by pressing Ctrl+Z
+It suspends aprocess but does not terminate it
+The suspended process can later be resumed with the fg or bg commands

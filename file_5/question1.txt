@@ -1,0 +1,3 @@
+The first process in the system is systemed or init
+It is launched by the kernel at boot with PID=1 and is responsible for starting all other service and processes
+Allsubsequent processes are created directory or indirectory by this process making it the parent of all processes

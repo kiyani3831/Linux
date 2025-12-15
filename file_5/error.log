@@ -1,0 +1,5 @@
+[    0.257155] ACPI: _OSC evaluation for CPUs failed, trying _PDC
+[    2.493897] hv_balloon: Cold memory discard hypercall failed with status 1900000005
+[    2.494907] hv_balloon: Underlying Hyper-V does not support order less than 9. Hypercall failed
+[   12.101488] WSL (213) ERROR: CheckConnection: getaddrinfo() failed: -3
+[   17.110151] WSL (213) ERROR: CheckConnection: getaddrinfo() failed: -3

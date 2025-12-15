@@ -1,0 +1,4 @@
+SIGTERM a pplite request for a process to terminate
+The process can perform cleanup tasks befor exiting
+SIGKILL an immediate kill signal the process is terminated instantly without any chance to cleanup
+sigkill is only used when a process does not respond to sigterm
