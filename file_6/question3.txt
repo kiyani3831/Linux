@@ -1,0 +1,3 @@
+$@ Preserves each argument separately
+$* Combines all arguments into a single string
+Key difference in loops or when arguments contain spaces or special charaters

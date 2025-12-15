@@ -1,0 +1,3 @@
+The script file is in the current directory but the system only searches for executables in this paths listed in the PATH variable
+The current directory . is not usually included in PATH
+THerefor we must explicitly tell the system to run the script from the current directory ./screapt.sh means
